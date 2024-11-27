@@ -1,0 +1,13 @@
+p {
+  color: white;
+}
+
+.Profile {
+  flex: 1;
+  background-color: blue;
+  max-width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 12%);
+}

@@ -1,9 +1,10 @@
 import './App.css';
+import Profile from './Profile';
 
 function App() {
   return (
-    <div>
-      
+    <div className="App">
+      <Profile />
     </div>
   )
 }
